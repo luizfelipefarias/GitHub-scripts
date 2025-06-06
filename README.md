@@ -3,10 +3,10 @@ Script para configurar usuário e e-mail do Git globalmente e excluir
 # Script para configurar usuário e e-mail do Git globalmente
 
 # Solicita o nome de usuário
-$name = Read-Host "Digite seu nome para o Git (ex: João Silva)"
+$name = Read-Host "luizfelipefarias"
 
 # Solicita o e-mail
-$email = Read-Host "Digite seu e-mail para o Git (ex: joao@email.com)"
+$email = Read-Host "luizfelipefarias"
 
 # Define as configurações globais
 git config --global user.name "$name"
