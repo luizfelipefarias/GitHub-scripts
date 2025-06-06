@@ -1,3 +1,5 @@
+Script para configurar usuário e e-mail do Git globalmente e excluir
+```bash
 # Script para configurar usuário e e-mail do Git globalmente
 
 # Solicita o nome de usuário
